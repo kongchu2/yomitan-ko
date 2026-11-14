@@ -7,7 +7,7 @@
 
 | 사전 | 방향 | 수록 | 받기 |
 |---|---|---|---|
-| [JMdict-ko](https://github.com/kongchu2/jmdict-ko) | 일본어 → 한국어 | 빈도 상위 50,049개 항목 + 한자 훈음 | [jmdict-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/jmdict-ko.zip) · [kanjidic-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/kanjidic-ko.zip) |
+| [JMdict-ko](https://github.com/kongchu2/jmdict-ko) | 일본어 → 한국어 | JMdict 전체 약 21만 9천 항목 + 한자 훈음 | [jmdict-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/jmdict-ko.zip) · [kanjidic-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/kanjidic-ko.zip) |
 | [Wiktionary-en-ko](https://github.com/kongchu2/wiktionary-en-ko) | 영어 → 한국어 | 107,812개 항목 (상위 5만 단어, 구동사, 숙어) | [wiktionary-en-ko.zip](https://github.com/kongchu2/wiktionary-en-ko/releases/latest/download/wiktionary-en-ko.zip) |
 | [CC-CEDICT-ko](https://github.com/kongchu2/cedict-ko) | 중국어 → 한국어 | 빈도순으로 번역 중 + 한자 훈음 10,353자 | [cedict-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/cedict-ko.zip) · [hanzi-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/hanzi-ko.zip) |
 
@@ -50,7 +50,7 @@ Yomitan 아이콘 → 톱니바퀴(설정) → **General → Language**에서 �
 ## 언어별 권장 설정
 
 **일본어**
-- 따로 바꿀 것은 없습니다. 영어 뜻 사전(Jitendex 등)을 함께 넣어 두면 아직 번역되지 않은 드문 단어를 메울 수 있습니다.
+- 따로 바꿀 것은 없습니다. 영어 뜻 사전(Jitendex 등)을 함께 넣어 두면 뜻을 영어로도 확인할 수 있습니다.
 
 **영어**
 - **Scanning → Lookup resolution을 Word로** 바꾸세요. 기본값(Letter)에서는 `went` 밑에 `wen`, `we`가 함께 나오고, 숙어가 다음 단어의 앞부분까지 잡는 일이 있습니다.
