@@ -9,7 +9,7 @@
 |---|---|---|---|
 | [JMdict-ko](https://github.com/kongchu2/jmdict-ko) | 일본어 → 한국어 | JMdict 전체 약 21만 9천 항목 + 한자 훈음 | [jmdict-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/jmdict-ko.zip) · [kanjidic-ko.zip](https://github.com/kongchu2/jmdict-ko/releases/latest/download/kanjidic-ko.zip) |
 | [Wiktionary-en-ko](https://github.com/kongchu2/wiktionary-en-ko) | 영어 → 한국어 | 107,812개 항목 (상위 5만 단어, 구동사, 숙어) | [wiktionary-en-ko.zip](https://github.com/kongchu2/wiktionary-en-ko/releases/latest/download/wiktionary-en-ko.zip) |
-| [CC-CEDICT-ko](https://github.com/kongchu2/cedict-ko) | 중국어 → 한국어 | 빈도순으로 번역 중 + 한자 훈음 10,353자 | [cedict-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/cedict-ko.zip) · [hanzi-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/hanzi-ko.zip) |
+| [CC-CEDICT-ko](https://github.com/kongchu2/cedict-ko) | 중국어 → 한국어 | 83,719항목(말뭉치에 나오는 단어 전부) + 한자 훈음 10,353자 | [cedict-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/cedict-ko.zip) · [hanzi-ko.zip](https://github.com/kongchu2/cedict-ko/releases/latest/download/hanzi-ko.zip) |
 
 ## 무엇이 좋은가
 
